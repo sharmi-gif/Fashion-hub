@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fashion-hub/static/css/main.0d7930e3.css",
+    "main.js": "/Fashion-hub/static/js/main.c3bbacc9.js",
+    "static/js/453.66deb564.chunk.js": "/Fashion-hub/static/js/453.66deb564.chunk.js",
+    "static/media/SS Style.png": "/Fashion-hub/static/media/SS Style.624bf835136a193963a9.png",
+    "index.html": "/Fashion-hub/index.html",
+    "main.0d7930e3.css.map": "/Fashion-hub/static/css/main.0d7930e3.css.map",
+    "main.c3bbacc9.js.map": "/Fashion-hub/static/js/main.c3bbacc9.js.map",
+    "453.66deb564.chunk.js.map": "/Fashion-hub/static/js/453.66deb564.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d7930e3.css",
+    "static/js/main.c3bbacc9.js"
+  ]
+}
